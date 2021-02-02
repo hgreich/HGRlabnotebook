@@ -10,9 +10,9 @@ tags: polyp bailout, Micropropagule, Pocillopora, synthetic coral, Putnam lab, N
 This entry describes the results of the polyp bailout trials run during november 2020- january 2021. *Pocillopora acuta* fragments (n=4 treatment; n=4 control) were used for all trials.
 
 # Relevant links
-[detailed protocol for inducing Pocillopora acuta polyp bailout via hyperosmotic stress](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md)
-[lab notebook post on Micropropagule phenotyping](https://github.com/hgreich/HGRlabnotebook/blob/master/_posts/20210120_micropropagule_phenotyping.Md)
-[Rmarkdown file with code for figures and stats](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/scripts/PolypBailoutTrialFigs.Rmd)
+- [detailed protocol for inducing Pocillopora acuta polyp bailout via hyperosmotic stress](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md)
+- [lab notebook post on Micropropagule phenotyping](https://github.com/hgreich/HGRlabnotebook/blob/master/_posts/20210120_micropropagule_phenotyping.Md)
+- [Rmarkdown file with code for figures and stats](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/scripts/PolypBailoutTrialFigs.Rmd)
 
 ## Optimizing the salinity ramp
 The initial trials in nov 2020 did not elicit sufficient hyperosmotic stress to induce bailout after ~48hr of gradual salinity increase to ~54psu. Though exposure to ~53-55psu has resulted in *P. damicornis* bailout at ~48hr in other studies [overview of literature in protocol](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md), It took 4-5days of exposure to ~53-55psu for our *P. acuta* fragments to bailout.
