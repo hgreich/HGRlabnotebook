@@ -29,13 +29,13 @@ It is unsurprising settlement has not occurred given the "small" size of the *P.
 
 ## There is some consistency between proportions of MP phenotypes between trials but less so by 'day-of-trial'
 ![fig](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/figures/mp_pheno_pct_all_trials.png)
-The percentage of degenerate polyps (DPs) are often twice as frequent as recovered polyps (RPs). This disparity increases over time (DP Kruskal-Wallis chi-squared = 9.6544, df = 4, p-value = 0.04667; RP Kruskal-Wallis chi-squared = 8.8022, df = 4, p-value = 0.06624). There were no significant differences between trials.
+The percentage of degenerated polyps (DPs) are often twice as frequent as recovered polyps (RPs). This disparity increases over time (DP Kruskal-Wallis chi-squared = 9.6544, df = 4, p-value = 0.04667; RP Kruskal-Wallis chi-squared = 8.8022, df = 4, p-value = 0.06624). There were no significant differences between trials.
 
 ## Percent Survivorship is higher in more recent trials (with 'optimized' salinity ramps) but varies by day of trial
 ![fig](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/figures/survivorship_alltrials.png)
 Survivorship on trial day 3 (1 day post bailout) was highest (86%) when corals/Micropropagules were removed from ~60psu within an hour of reaching the salinity level (trial started 20210118). Trials where the corals/Micropropagules were left in ~58-60psu for more than an hour had lower survivorship (~24-66% survivorship). Overall, survivorship varied significantly by trial (Kruskal-Wallis chi-squared = 10.733, df = 3, p-value = 0.01326) but not within trial. Survivorship significantly decreased through time during each trial (Kruskal-Wallis chi-squared = 20.99, df = 4, p-value = 0.0003181).
 
-## "Recovered" Micropropagules (RP) are larger than "degenerate" Micropropagules (DP)
+## "Recovered" Micropropagules (RP) are larger than "degenerated" Micropropagules (DP)
 ![fig](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/figures/mp_size_by_pheno.png)
 Data from the 20210112 trial demonstrate how DP's are significantly smaller than RP's (Kruskal-Wallis chi-squared = 40.464, df = 1, p-value = 2.003e-10). The surface area of RP's are nearly 4x larger (average 0.35 mm2) larger than DP's (average 0.010 mm2). MP size did not vary significantly by day (Kruskal-Wallis chi-squared = 3.2425, df = 3, p-value = 0.3557).
 
