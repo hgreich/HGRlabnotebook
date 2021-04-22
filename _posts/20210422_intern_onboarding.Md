@@ -19,7 +19,7 @@ Welcome! The Putnam Lab is thrilled to work with you this summer! **The purpose 
 
 ### Aquarium room care
 - Schedule and protocols for routine aquarium upkeep tasks: https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md
-- CBLS water quality tracking:
+- CBLS water quality tracking repo: https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resourses/CBLS_Aquarium_WQ_Tracking
 
 ### Polyp bailout resources
 - Step by step protocol to induce polyp bailout https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md
