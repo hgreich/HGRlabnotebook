@@ -8,7 +8,7 @@ tags: onboarding, protocol, water quality, synthetic coral, CBLS Aquarium Room, 
 
 # Summer intern onboarding for CBLS aquarium room work
 
-Date started: 20210422
+Date started: 20210422 
 Date last revised: 20210517 HGR adding link to readme with all polyp bailout protocol links
 
 Welcome! The Putnam Lab is thrilled to work with you this summer! **The purpose of this post is to direct you to several lab onboarding resources including general lab management, lab notebooks, aquarium room care, and polyp bailout protocols**
