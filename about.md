@@ -23,19 +23,22 @@ I am dedicated to open, rigorous, and reproducible experiments and analyses.
 <center>University of Rhode Island</center>
 <center>120 Flagg Road, Kingston RI 02881</center>
 
-### POSITIONS HELD
+### POSITIONS HELD
 
-Date|Position| Affiliation
---|--|--
-2020-Present	| Postdoctoral Researcher | University of Rhode Island (URI), Department of Biological Sciences
-2016-2020	| Graduate Research and Teaching Assistant | Penn State University
+| Date | Position | Affiliation |
+| --- | --- | --- |
+| 2020-Present | Postdoctoral Research Scientist | University of Rhode Island, Department of Biological Sciences |
+| 2016-2020 | Graduate Research and Teaching Assistant | Penn State University |
+
 
 ### EDUCATION
-Date|Position| Affiliation
---|--|--
-2016 - 20 		| PhD, Biology  | Penn State  
-2015 - 16 | MS, Biology | Clark University  
-2011 - 15 | BA, environmental science, cum laude  |  Clark University
+
+| Date | Degree | Affiliation |
+| --- | --- | --- |
+| 2016-2020 | PhD, Biology | Penn State University |
+| 2015-2016 | MS, Biology | Clark University |
+| 2011-2015 | BA, Environmental Science, *cum laude* | Clark University |
+
 
 ### PUBLICATIONS
 [Google Scholar Profile](https://scholar.google.com/citations?user=AJI2UqAAAAAJ&hl=en)
