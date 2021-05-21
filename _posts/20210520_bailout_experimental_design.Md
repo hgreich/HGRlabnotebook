@@ -16,7 +16,7 @@ Date last revised: 20210520 HGR
 
 | Timepoint | Rationale | Response variables |
 | --- | --- | --- |
-| start | examine physiology before hyperosmotic stress |
+| start | examine physiology before hyperosmotic stress | |
 
 ## Experimental design
 ## Response variables
