@@ -1,0 +1,91 @@
+---
+layout: post
+title: 20210524_polyp_bailout_expt_planning
+date: '2021-05-24'
+categories: Goals, Protocols
+tags: [polyp bailout, pocillopora, NSF HDR, Syn Coral, physiology, Putnam Lab]
+---
+
+Date started: 20210520
+Date last revised: 20210525 HGR
+
+# Lab notebook post on experimental design for the polyp bailout work and timepoints for the response variables
+
+*Project rationale:* determine the recovery dynamics of Pocillopora acuta (and endosymbiotic dinoflagellate) following hyperosmotic-induced polyp bailout. An understanding of how exposure to acute hyperosmotic stress influences coral/algal physiology and energy budgets will better inform best practices for future coral-on-a-chip experimental work.
+
+# Table of response variable timepoints
+
+| Timepoint | Rationale | Response variables |
+| --- | --- | --- |
+| T-0, 35 psu, start | examine physiology before hyperosmotic stress* | Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-1d, 48 psu, pre-bailout | examine physiology during hyperosmotic stress* | Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-2d, 60 psu, bailout | examine physiology of recently bailed out micropropagules | micropropagule size, micropropagule phenotype, corallite counts, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-3d, 35 psu, pre-settlement*** | determine whether recovery occurs pre-settlement** | micropropagule surivivorship, micropropagule size, micropropagule phenotype, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-5d, 35 psu, post-settlement**** | determine how settlement alters energy dynamics and recovery | settlement success, secondary recruit size, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-12d, 35 psu, juvenile growth | track recovery dynamics through time | secondary recruit survivorship, secondary recruit growth, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |  
+| T-26d, 35 psu, juvenile growth | track recovery dynamics through time | secondary recruit survivorship, secondary recruit growth, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-1 month, 35 psu, juvenile growth | track recovery dynamics through time | secondary recruit survivorship, secondary recruit growth, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+| T-2 month, 35 psu, juvenile growth | track recovery dynamics through time | secondary recruit survivorship, secondary recruit growth, Host lipid, carbohydrate, protein, total antioxidant capacity, Symbiont PSII photochemical efficiency, density, cell size, chlorophyll content |
+
+## points of consideration
+
+- * The T-0 and T-1d timepoints will require airbrushing adults whereas the remaining timepoints will involve micropropagule/juvenile preservation.
+- ** could consider preserving micropropagules by phenotype to determine differences in recovery dynamics between degenerated verses recovered polyps
+- *** will want to evaluate settlement success rates with different settlement substrates (waterproof paper, fresh microscope slide cover slips, fresh microscope slide cover slips with red tape, pre-conditioned microscope slide cover slips, pre-conditioned microscope slide cover slips with red tape)
+- **** this might fall on a weekend
+- whether it would be feasible to study symbiont lipid:carb:prot:TAC as well as host (for a subset of samples).
+
+## Brief overview of experimental design (bailout and settlement)
+
+- Start with n=4 control fragments and n=4 hyperosmotic stress fragments of *Pocillopora acuta* using the [detailed bailout protocol here](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md). Check for bailout everyday. **NOTE**: filter all seawater (control and high salinity) with a 0.2uM filter. Use all seawater from the mixing tank rather than water from the recirculating tank.
+- Place polyp bailout mesh chambers in ambient seawater immediately following bailout. Use 6-well plates for settlement trials. Refill wells with 0.2uM filtered seawater 1-2x/week. see *** in 'points of consideration' about experiment to test settlement substrate. These forms of settlement substrate are ideal because they will allow for microscopy work downstream (relative to live rock fragments or skeleton)
+
+## Brief overview of expermental design (coral physiology through time)
+
+- Track suite of physiology parameters through time to monitor host and symbiont recovery. [Repo with links to protocols for assays of interest here](https://github.com/thesyntheticcoral/SynCoral_Protocols/tree/master/Polyp_Bailout)
+- all assays will normalize to protein (chla, tac, carb, lipid), corallite count (micropropagule count/ survival), or secondary recruit sizes
+- will space out assays (chla, tac, carb, lipid, P:R, PAM/Frrf), ideally ~3 trials (weeks) with n=5-8 (control and treatment) adults each
+- note from KHW & ASH: ~20 Past larvae (~0.5mm2) is enough material for chla/prot/tac extractions. Will likely need to pool recruits - ASH was able to get reliable chla measurements for ~1yr old Mcap recruits (5-7mm2)
+- trial assays will determine # micropropagules needed, will want 3 reps of (15, 20, 25, 30, 40) pools of micropropagules for testing chla, prot, tac, lipid, carb extraction protocols (390 per protocol, ~1950 total, will want a few extra for testing sym cell counts and size measurements, equates to ~245 mm2 adult tissue).
+- Total micropropagules/ coral tissue needed… assuming 5mm of coral yields 30-40 MPs. Will want ~160 MPs per colony for measurements from at least 7 timepoints (~25 MP for host prot, host lipid, host carb, host antioxid, chla, ~5 for sym density & size)
+Will want to use colonies capable of rearing 960 MP+ (colony size around ~120 mm).
+
+
+## proposed schedule
+
+| Week of | objective & primary tasks | notes |
+| --- | --- | --- |
+| May 24 | RB onboarding, incubator set up | |
+| May 31 | run bailout trial for assay trials and settlement trials, AT onboarding | monday is a holiday, liquid N training |
+| June 7 | settlement checks, assay testing ^^ | coordinate with danielle/jill for P:R work |
+| June 14 | run trial for P:R, continue to monitor for settlement, assay testing ^^ | re-evaluate timeline based on assay testing |  
+| June 21 | slightly scaled up trial to track P:R, sym cell density, sym cell size through time, monitor settlement | |
+| June 28 | large-scale trial 1 to preserve for phys assays, continue settlement tracking | |
+| July 5 | large-scale trial 2 to preserve for phys assays, continue settlement tracking | monday is a holiday |
+| July 12 | large-scale trial 3 to preserve for phys assays, continue settlement tracking | |
+| July 19 | settlement tracking | Hannah off with family |
+| July 26 | large-scale trial for phys assays (if samples needed), settlement tracking, phys assays, cell counts, imageJ measurements | |
+
+- ^^ preserve pools of secondary recruits for assay testing (to determining # of recruits needed for each assay)
+
+## reagants needed for phys protocols
+
+| assay | chemical | amount per sample (units) | total samples^^^ (x # trials, # of assay tech reps) | total reagent needed |
+| --- | --- | --- | --- | --- |
+| TAC | uric acid standards | 10mg, duplicate | 10mg/plate | |
+| TAC | 1:100 PBS or methanol for reaction buffer | 180uL | 174, duplicate | ~65 mL |
+| TAC | 1:100 copper ion reagent | 50uL | 174, duplicate | ~18 mL |
+| TAC | 1:10 stop solution | 50uL | 174, duplicate | ~18 mL |
+| chla | 100% acetone | 1 mL | 174, triplicate | ~600 mL |
+| carb | 5/5 phenol in water (w/w) | 1 mL | 174, single tech rep | ~ 200 mL |
+| carb | H2S04 | 5 mL | 174, single tech rep | ~ 1 L |
+| carb | 10mL glass pipettes | 174, single tech rep | ~ 200 10mL glass pipettes |
+| prot | 1M NaOH | 10 uL | 174, triplicate | ~ 6mL |
+| prot |  0.1M HCL | 280 uL | 174, triplicate | ~150 mL |
+| prot | bca working reagent (WR) | 200 uL | 174, triplicate | ~ 105 mL |
+| lipid | | | | |
+| symbiont cell size | glutaraldehyde | 10 uL | ~2 mL |
+| symbiont counts | DMSO | 1 mL | ~ 200 mL | 
+
+- ^^^ math on # of reactions per assay type - tech reps accounted for above [assay testing(5 MP pools * 3 colonies) + (5 juvi pools * 3 colonies)] + [phys through time(6 time points * 3 trials * 8 colonies)] = 174
+- **NOTE** will want to estimate plates per assay
