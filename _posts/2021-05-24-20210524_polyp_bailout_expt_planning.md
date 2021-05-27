@@ -93,7 +93,7 @@ Date last revised: 20210527 HGR adding schedule updates, etc. Removed TAC assay 
 - ^^^ math on # of reactions per assay type - tech reps accounted for above [assay testing(5 MP pools * 3 colonies) + (5 juvi pools * 3 colonies)] + [phys through time(6 time points * 3 trials * 8 colonies)] = 174
 - **NOTE** will want to estimate plates per assay
 
-### TAC assay reagents
+### TAC assay reagents  
 
 probably not running this assay but the estimates of reagents needed is listed below
 
