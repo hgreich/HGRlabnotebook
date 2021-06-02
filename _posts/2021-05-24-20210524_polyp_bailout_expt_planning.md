@@ -7,7 +7,8 @@ tags: [polyp bailout, pocillopora, NSF HDR, Syn Coral, physiology, Putnam Lab]
 ---
 
 Date started: 20210520
-Date last revised: 20210527 HGR adding schedule updates, etc. Removed TAC assay from response variable list.
+
+Date last revised: 20210601 HGR adding schedule updates, etc.
 
 # Lab notebook post on experimental design for the polyp bailout work and timepoints for the response variables
 
@@ -52,25 +53,28 @@ Date last revised: 20210527 HGR adding schedule updates, etc. Removed TAC assay 
 - Total micropropagules/ coral tissue needed… assuming 5mm of coral yields 30-40 MPs. Will want ~160 MPs per colony for measurements from at least 7 timepoints (~25 MP for host prot, host lipid, host carb, chla, ~5 for sym density & size). Will want to use colonies capable of rearing 960 MP+ (colony size around ~120 mm).
 
 
-## proposed schedule
+## proposed schedule (20210602 update - priorities by week for June, by month for Aug-Sept)
 
-| Week of | objective & primary tasks | notes |
-| --- | --- | --- |
-| May 24 | RB onboarding, incubator set up | |
-| May 31 | run bailout trial for assay trials and settlement trials | monday is a holiday, liquid N training |
-| June 7 | settlement checks, assay testing ^^, AT Onboarding | coordinate with danielle/emma/jill diving PAM |
-| June 14 | run trial w/ diving PAM, continue to monitor for settlement, assay testing ^^ | re-evaluate timeline/sample sizes based on assay testing |  
-| June 21 | slightly scaled up trial to track P:R, sym cell density, sym cell size through time, monitor settlement | |
-| June 28 | large-scale trial 1 to preserve for phys assays, continue settlement tracking | coordinate P:R SDR plate training |
-| July 5 | continue settlement tracking, small trial for P:R SDR plate testing | monday is a holiday |
-| July 12 | large-scale trial 2 to preserve for phys assays, continue settlement tracking | |
-| July 12 | settlement tracking | Hannah off with family |
-| July 26 | large-scale trial 2 to preserve for phys assays, continue settlement tracking | RB off 7/30 |
-| Aug 2 | large-scale trial for phys assays (if samples needed), settlement tracking, phys assays, cell counts, imageJ measurements | RB off |
-| Aug 9 | sample processing, monitor for settlement | 8/12 AT last day |
-| Aug 16 | sample processing, monitor for settlement | |
-| Aug 23 | sample processing, monitor for settlement | |
+### JUNE priorities by week
 
+overall priorities for June:
+1. 3-4 bailout trials for settlment optimization, scale up after 2
+2. Intern onboarding: lab notebook & water quality (AT); executing bailout experiment in incubator (all); filtering seawater (all); diving pam (all); micropagule sizing + phenotyping (all); tracking of settlement success and secondary recruit growth (all); symbiont counts & sizing (all)
+
+| Week of | objective & primary tasks | intern training | notes |
+| --- | --- | --- | --- |
+| June 7 | bailout trial (n=4 salinity, n=4 control) for training/ settlement checks | AT lab notebook & water quality onboarding; RB AT micropropagule counting + phenotyping, settlement checks | show RB AT tris curve cal in R |
+| June 14 | bailout trial (n=4 salinity, n=4 control) for training/ settlement checks | RB AT micropropagule counting + phenotyping, settlement checks, sizing in imageJ | if time - diving PAM  |
+| June 21 | bailout trial (n=6-8 salinity, n=6-8 control) for training/ settlement checks | diving PAM best practices |  try and separate DP and RP for PAM |
+| June 28 |  settlement checks | sym counting/sizing training^; continue diving PAM onboarding | ^ sym count/sizing training does not have to be with micropropagules |
+
+### July - Sept priorities by month
+
+| Month of | objective & primary tasks | intern training | notes |
+| --- | --- | --- | --- |
+| July | 3-4 bailout trials with larger sample sizes for settlement optimization and assay testing; SDR troubleshooting | P:R with SDR; colorimetric assays (after testing) | HR off with family 7/19-24; RB off 7/30 |
+| August | **re-eval bailout plans based on assay testing, settlement success, & secondary recruit survivorship**; bailout trials for assay sampling; assay optimization | sample preservation, colorimetric assays | interns finish |  
+| September | bailout trials for assay sampling; assay optimization | | | 
 
 - ^^ preserve pools of secondary recruits for assay testing (to determining # of recruits needed for each assay)
 - SDR plate for P:R is in Hawaii until 20210630
@@ -78,18 +82,21 @@ Date last revised: 20210527 HGR adding schedule updates, etc. Removed TAC assay 
 
 ## reagants needed for phys protocols
 
+updated table (20210528) on google drive [here](https://docs.google.com/spreadsheets/d/19jdKqWK7u9aPzEWbmwNnlPqc5GgtQM0Ljxeehmu2yuA/edit?usp=sharing), now includes reagents from Bove [lipid](https://www.protocols.io/view/coral-lipid-assay-for-96-well-plates-bvcfn2tn) and [carbohydrate](https://www.protocols.io/view/coral-carbohydrate-assay-for-96-well-plates-bvb9n2r6) protocols
+
 | assay | chemical | amount per sample (units) | total samples^^^ (x # trials, # of assay tech reps) | total reagent needed |
 | --- | --- | --- | --- | --- |
 | chla | 100% acetone | 1 mL | 174, triplicate | ~600 mL |
-| carb | 5/5 phenol in water (w/w) | 1 mL | 174, single tech rep | ~ 200 mL |
-| carb | H2S04 | 5 mL | 174, single tech rep | ~ 1 L |
-| carb | 10mL glass pipettes | 174, single tech rep | ~ 200 10mL glass pipettes |
+| carb ^^ | 5/5 phenol in water (w/w) | 1 mL | 174, single tech rep | ~ 200 mL |
+| carb ^^ | H2S04 | 5 mL | 174, single tech rep | ~ 1 L |
+| carb ^^ | 10mL glass pipettes | 174, single tech rep | ~ 200 10mL glass pipettes |
 | prot | 1M NaOH | 10 uL | 174, triplicate | ~ 6mL |
 | prot |  0.1M HCL | 280 uL | 174, triplicate | ~150 mL |
 | prot | bca working reagent (WR) | 200 uL | 174, triplicate | ~ 105 mL |
 | lipid | | | | |
 | symbiont cell size & counts | zfix |  |  |
 
+- ^^ Wall protocol
 - ^^^ math on # of reactions per assay type - tech reps accounted for above [assay testing(5 MP pools * 3 colonies) + (5 juvi pools * 3 colonies)] + [phys through time(6 time points * 3 trials * 8 colonies)] = 174
 - **NOTE** will want to estimate plates per assay
 
