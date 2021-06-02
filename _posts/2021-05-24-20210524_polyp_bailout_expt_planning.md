@@ -57,16 +57,16 @@ Date last revised: 20210601 HGR adding schedule updates, etc.
 
 ### JUNE priorities by week
 
-overall priorities for June:
-1. 3-4 bailout trials for settlment optimization, scale up after 2
+**overall priorities for June:**
+1. 3-4 bailout trials for settlment optimization, scale up sample size after 2
 2. Intern onboarding: lab notebook & water quality (AT); executing bailout experiment in incubator (all); filtering seawater (all); diving pam (all); micropagule sizing + phenotyping (all); tracking of settlement success and secondary recruit growth (all); symbiont counts & sizing (all)
 
-| Week of | objective & primary tasks | intern training | notes |
+| Wk of | objective & primary tasks | intern training | notes |
 | --- | --- | --- | --- |
-| June 7 | bailout trial (n=4 salinity, n=4 control) for training/ settlement checks | AT lab notebook & water quality onboarding; RB AT micropropagule counting + phenotyping, settlement checks | show RB AT tris curve cal in R |
-| June 14 | bailout trial (n=4 salinity, n=4 control) for training/ settlement checks | RB AT micropropagule counting + phenotyping, settlement checks, sizing in imageJ | if time - diving PAM  |
-| June 21 | bailout trial (n=6-8 salinity, n=6-8 control) for training/ settlement checks | diving PAM best practices |  try and separate DP and RP for PAM |
-| June 28 |  settlement checks | sym counting/sizing training^; continue diving PAM onboarding | ^ sym count/sizing training does not have to be with micropropagules |
+| 6/7 | bailout trial (n=4 salinity, n=4 control) for training/ settlement checks | AT lab notebook & water quality onboarding; RB AT micropropagule counting + phenotyping, settlement checks | show RB AT tris curve cal in R |
+| 6/14 | bailout trial (n=4 salinity, n=4 control) for training/ settlement checks | RB AT micropropagule counting + phenotyping, settlement checks, sizing in imageJ | if time - diving PAM  |
+| 6/21 | bailout trial (n=6-8 salinity, n=6-8 control) for training/ settlement checks | diving PAM best practices |  try and separate DP and RP for PAM |
+| 6/28 |  settlement checks | sym counting/sizing training^; continue diving PAM onboarding | ^ sym count/sizing training does not have to be with micropropagules |
 
 ### July - Sept priorities by month
 
@@ -74,7 +74,7 @@ overall priorities for June:
 | --- | --- | --- | --- |
 | July | 3-4 bailout trials with larger sample sizes for settlement optimization and assay testing; SDR troubleshooting | P:R with SDR; colorimetric assays (after testing) | HR off with family 7/19-24; RB off 7/30 |
 | August | **re-eval bailout plans based on assay testing, settlement success, & secondary recruit survivorship**; bailout trials for assay sampling; assay optimization | sample preservation, colorimetric assays | interns finish |  
-| September | bailout trials for assay sampling; assay optimization | | | 
+| Sept | bailout trials for assay sampling; assay optimization | | |
 
 - ^^ preserve pools of secondary recruits for assay testing (to determining # of recruits needed for each assay)
 - SDR plate for P:R is in Hawaii until 20210630
