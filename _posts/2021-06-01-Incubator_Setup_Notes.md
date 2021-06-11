@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Incubator_Setup_Notes
+title: Incubator_Setup_Notes_partI
 date: '2021-06-01'
 categories: Protocols
 tags: Polyp Bailout, Incubator, Settlement, NSF HDR
 ---
 
 date created 20210601
-date last revised 20210601 HGR post creation
+date last revised 20210611 renamed part I
 
 **purpose of post:** record notes on incubator setup, product dimensions, and potential layouts
 
