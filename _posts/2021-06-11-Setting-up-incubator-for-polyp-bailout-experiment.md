@@ -55,31 +55,12 @@ Two 2-gallon carboys are on the bottom shelf in a plastic bin. One carboy has mi
 ***Lessons learned during bailout chamber construction***
 - small lengths (~1in) of pvc and plastic tubing (~1in diameter) sank. We had some success floating these with egg crate (taped some of the small squares and the perimeter of the egg crate to improve buoyancy but the egg crate took up too much space which would allow for fewer bailout chambers/tank). We opted not to float pvc or plastic tubing with styrofoam to prevent contamination. Wrapping aquarium tubing around the plastic or pvc as "floaties" did not work either (both ends of the plastic tubing were taped over to prevent flooding).
 
-# Plan for week of 20210614
-bailout trial for AT training and settlement optimization
-- *control, ambient salinity* n=2 plastic containers with n=3 bailout chambers (one ~1cm frag per chamber, total of 6 control)
-- *hyperosmotic stress treatment* n=2 plastic containers with n=3 bailout chambers (one ~1cm frag per chamber, total of 6 control)
-- settlement treatments will have n=20 micropropagules per well. Wells will be replenished with 1mL filtered seawater everyday.
-- settlement substrate will be microscope coverslips and waterproof paper. If enough micropropagules are available we will include  microscope coverslips with red tape. The pieces of waterproof paper provided as settlement substrate will be the same size as the microscope coverslips.
-- settlement and bailout monitoring spreadsheet [here](https://github.com/thesyntheticcoral/PolypBailoutExpt/tree/main/settlement)  
-
-| day | goal |
-| --- | --- |
-| monday | pump setup, move apex into incubator, start experiment, T-0 photos and water quality |
-| tuesday | T-1 photos and water quality, remove 1L from containers with siphon, reprogram pump |
-| wednesday | count micropropagules, count corallites, image and phenotyping (if time), start settlement treatments |
-| thursday | check for settlement, micropropagule imaging and phenotyping (if time) |
-| friday | check for settlement, micropropagule imaging and phenotyping, feed well plates  |
-
 ***we will rotate tank and 6well plate configuration everyday to account for variation in light intensity***
 
 ## photos
 
-top of incubator with 6well settlement plates.
-![incubator_top]()
+top of incubator with 6well settlement [plates](https://github.com/hgreich/HGRlabnotebook/blob/master/images/incubator_top.HEIC)
 
-bottom of incubator with carboys and bailout tanks
-![incubator_bottom]()
+bottom of incubator with carboys and bailout [tanks](https://github.com/hgreich/HGRlabnotebook/blob/master/images/incubator_bottom.HEIC)
 
-close up of 2L bailout tank with mesh chambers
-![close_up]()
+close up of 2L bailout tank with mesh [chambers](https://github.com/hgreich/HGRlabnotebook/blob/master/images/close_up_bailout_chamber.HEIC)
