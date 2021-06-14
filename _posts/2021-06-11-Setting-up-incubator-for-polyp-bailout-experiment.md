@@ -7,7 +7,7 @@ tags: Polyp bailout, Pocillopora, Putnam Lab, Experiment setup, Incubator
 ---
 
 date created 20210611;
-date last revised 20210611 HGR post creation
+date last revised 20210614 removed moon light from hydra 52ai light type list
 
 # this post is the sequel to an [earlier post about incubator setup](https://hgreich.github.io/HGRlabnotebook/protocols/2021/06/01/Incubator_Setup_Notes.html) planning
 ## the previous post (part I) was for note taking on incubator dimensions and potential tank configuration
@@ -41,7 +41,6 @@ date last revised 20210611 HGR post creation
 | Green | 3% | 2% |
 | Deep Red | 3% | 2% |
 | Cool Light | 3% | 2% |
-| Moon Light | 3% | 2% |
 
 ## Carboys
 Two 2-gallon carboys are on the bottom shelf in a plastic bin. One carboy has mixing tank seawater (~32.5psu, not from the recirculating tanks so elemental composition is known). The high salinity carboy has mixing tank seawater with extra Fritz RPM salt so the salinity is adjusted to ~78psu. Seawater from both was filtered over a 0.22um filter.
