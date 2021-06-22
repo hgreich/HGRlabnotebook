@@ -24,6 +24,7 @@ Determined start and add vol for 2L cylinder tank based off of [protocol from pr
 - goal is to change salinity ~0.85-1.1psu/hour
 - adding volume conservatively (700mL total rather than 750mL to prevent overflow and account for discrepencies with jebao dosing pump calibration)
 - starting with 1.1L instead of 1.2L to account for water displaced by aquarium pump (~80 mL)
+- used sharpie to denote 1.1L on cylinder (before adding pump). tape denotes water displaced buy pump
 - jebao dosing pump was calibrated twice prior to the experiment. Pumps 1,3,4 had 95+% accuracy. Pump 2 was not consistent and not used for this round of experiments.
 - [Link](https://atho1803.github.io/AT_Putnam_Lab_Notebook/Jebao-Dosing-Pump-Protocol/) to AThornson post on using the jebao pump; [pdf of protocol](https://github.com/atho1803/AT_Putnam_Lab_Notebook/blob/master/protocols/JebaoDosingPumpManual.pdf)
 - [Link](https://hgreich.github.io/HGRlabnotebook/protocols/2021/06/11/Setting-up-incubator-for-polyp-bailout-experiment.html) to previous post on incubator setup
