@@ -31,7 +31,7 @@ date last revised 20210622 hgr post creation
 - could see what looked like "potential settlement" with naked eye but looked more like decomposed tissue on paper when viewing under the compound scope
 
 ### notes on trial started 20210621
-- used n=3 fragments for control and n=3 fragments for salinity ramp. all fragments from coral 0045, info in [CBLS coral database](https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resourses/CBLS_Coral_Database)
+- used n=4 fragments for control and n=4 fragments for salinity ramp. all fragments from coral 0047, info in [CBLS coral database](https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resourses/CBLS_Coral_Database)
 - adding in water bubblers for both tanks helped with water pH
 - programmed 1st day of dosing to add 30 mL because last week's trial did not reach 60psu. Wound up overshooting desired salinity increase by 8psu (elicited 20psu increase, ~12 is ideal)
 - programmed 2nd day of dosing to add 17 mL to avoid another 20psu increase (~6psu increase would be ideal)
