@@ -10,7 +10,8 @@ date created 20210622;
 date last revised 20210622 hgr post creation
 
 # update on polyp bailout trials in incubator
-Photos of colonies and water quality in *private* [polyp bailout repo](https://github.com/thesyntheticcoral/PolypBailoutExpt)
+- Photos of colonies and water quality in *private* [polyp bailout repo](https://github.com/thesyntheticcoral/PolypBailoutExpt)
+- info on salinity ramp changes to optimize experiments for smaller tanks, [lab notebook post here](https://hgreich.github.io/HGRlabnotebook/protocols/2021/06/14/Changing-polyp-bailout-salinity-ramp-protocol-for-incubator-experiments.html)
 
 ### notes on trial started 20210614
 - used n=3 fragments for control and n=3 fragments for salinity ramp. all fragments from coral 0045, info in [CBLS coral database](https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resourses/CBLS_Coral_Database)
