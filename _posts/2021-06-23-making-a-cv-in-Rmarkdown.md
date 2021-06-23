@@ -10,14 +10,14 @@ date started 20210623;
 date last revised 20210623 hgr post creation
 
 # I want to remake my CV in Rmarkdown using one of the following packages
-- https://pkg.mitchelloharawild.com/vitae/
-- http://nickstrayer.me/datadrivencv/
+- [vitae](https://pkg.mitchelloharawild.com/vitae/)
+- [datadrivencv](http://nickstrayer.me/datadrivencv/)
 
 # other useful links
 - vitae cran documentation: https://cran.r-project.org/web/packages/vitae/vitae.pdf
 - powerpoint on vitae package: https://slides.mitchelloharawild.com/vitae/#1
 
-# first roadblock after trying to knit rmarkdown file = pandoc package
+# first roadblock after trying to knit rmarkdown file (with vitae package) = pandoc 
 - the pandoc package is a document converter
 - error message:
 >pandoc: unrecognized option --lua-filter
