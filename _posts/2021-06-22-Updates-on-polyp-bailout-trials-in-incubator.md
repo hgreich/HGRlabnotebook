@@ -7,7 +7,7 @@ tags: Pocillopora, incubator, polyp bailout, Putnam Lab, hyperosmotic stress, NS
 ---
 
 date created 20210622;
-date last revised 20210622 hgr post creation
+date last revised 20210625 hgr adding salinity ramp info
 
 # update on polyp bailout trials in incubator
 - Photos of colonies and water quality in *private* [polyp bailout repo](https://github.com/thesyntheticcoral/PolypBailoutExpt)
@@ -47,5 +47,6 @@ date last revised 20210622 hgr post creation
 | 20210614 | 1 | 43.62 | 25 | 24 | 7.98 | 0.3325 | 0.665 |
 | 20210614 | 2 | 43.62 |  N/A | N/A | N/A | N/A | N/A |
 | 20210614 | 3 | 57.5 | 25 | 24 | 13.88 | 0.578 | 1.156 |
-| 20210621 | 0 | 33.28 | 30 | 24 | 20.81 | 0.867 | 1.734 |
-| 20210621 | 1 | 54.09 | 17 | 24 | N/A | N/A | N/A |
+| 20210621 | 0 | 33.28 | NA | NA | N/A | N/A | N/A |
+| 20210621 | 1 | 54.09 | 30 | 24 | 20.81 | 0.867 | 1.734 |
+| 20210621 | 2 | 62.81 | 17 | 24 | 8.72 | 0.363 | 0.726 |
