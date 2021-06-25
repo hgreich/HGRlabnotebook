@@ -15,25 +15,25 @@ date last revised: 20210625 hgr post creation
 - protocol [here](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/corallite_counting_protocol.md); data [in private repo](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/trial_info/micropropagule_tracking.csv)
 - **changes to protocol:** N/A
 - remarks on protocol onboarding:
-> protocol best done with extra light shining on skeleton
-> for onboarding purposes, 2 people would count each skeleton (data in lab notebook, counters were within 5% of one another but sometimes larger differences ~9% occurred when counting larger fragments)
-> when two people count the same fragment, have the first person mark each corallite with a lighter-colored sharpie so the second person can still track the corallites they count with a darker-colored sharpie
-> thin sharpies work best
-> observed a consistent relationship between # corallites and # micropropagules
+  - protocol best done with extra light shining on skeleton
+  - for onboarding purposes, 2 people would count each skeleton (data in lab notebook, counters were within 5% of one another but sometimes larger differences ~9% occurred when counting larger fragments)
+  - when two people count the same fragment, have the first person mark each corallite with a lighter-colored sharpie so the second person can still track the corallites they count with a darker-colored sharpie
+  - thin sharpies work best
+  - observed a consistent relationship between # corallites and # micropropagules
 
 ## 2. Micropropagule (MP) counting
 - protocol [here](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md); data [in private repo](https://github.com/thesyntheticcoral/PolypBailoutExpt/blob/main/trial_info/micropropagule_tracking.csv)
 - **changes to protocol:** updates to bailout portion of the protocol described [here are optimized fo incubator setup](https://hgreich.github.io/HGRlabnotebook/protocols/2021/06/11/Setting-up-incubator-for-polyp-bailout-experiment.html)
 - remarks on protocol onboarding
-> protocol best done under light
-> was able to distinguish micropropagules (darker round clumps of tissue that sometimes had "mouth" "donut" holes in the middle) from mesenterial filaments (lighter scraps of tissue) without the microscope. **mesenterial filaments** were NOT counted towards the total micropropagules released because the are scraps of connecting tissue rather than a bailed out polyp
-> for training, 3 people would count the MP's released by each fragment. The first person would count them from the mesh chamber into a different cup (with seawater), the second person would count them into the mesh chamber, and the third person would count them back into the the cup with seawater
-> MPs were counted by eye with a bulb pipette. It is best to count 3-5 MPs at a time as they are drawn into the bulb pipette
-> All counters were careful not to let MPs get stuck in the bulb pipette
-> counting of MPs was consistent among counters and had a strong relationship with # corallites on the skeleton
-> the final MP count corresponded to the number settled into the 6 well plates.
-> recording the counts by settling into well plates helped maintain focus. This is because we were focused on counting to intervals of 20 (for each well + any extra after reaching the last multiple of 20) which prevented distraction and miscounting
-- **moving forward will count MPs when settling into well plates**
+  - protocol best done under light
+  - was able to distinguish micropropagules (darker round clumps of tissue that sometimes had "mouth" "donut" holes in the middle) from mesenterial filaments (lighter scraps of tissue) without the microscope. **mesenterial filaments** were NOT counted towards the total micropropagules released because the are scraps of connecting tissue rather than a bailed out polyp
+  - for training, 3 people would count the MP's released by each fragment. The first person would count them from the mesh chamber into a different cup (with seawater), the second person would count them into the mesh chamber, and the third person would count them back into the the cup with seawater
+  - MPs were counted by eye with a bulb pipette. It is best to count 3-5 MPs at a time as they are drawn into the bulb pipette
+  - All counters were careful not to let MPs get stuck in the bulb pipette
+  - counting of MPs was consistent among counters and had a strong relationship with # corallites on the skeleton
+  - the final MP count corresponded to the number settled into the 6 well plates.
+  - recording the counts by settling into well plates helped maintain focus. This is because we were focused on counting to intervals of 20 (for each well + any extra after reaching the last multiple of 20) which prevented distraction and miscounting
+  - **moving forward will count MPs when settling into well plates**
 
 ## 3. Settlement, water changes, and feeding of micropropagules in 6well plates
 - protocol [here, needs to be updated](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/PUTNAM_LAB_POLYP_BAILOUT_PROTOCOL.md); data [in private repo, abbreviations described in readME](https://github.com/thesyntheticcoral/PolypBailoutExpt/tree/main/settlement)
@@ -44,9 +44,9 @@ date last revised: 20210625 hgr post creation
   - **water changes:** (weekdays, did not evaporate over weekend) included removing 3-4mL of seawater with a bulb pipette and adding 4-5mL of 0.22uM filtered seawater with a bulb pipette. At no point were the MPs exposed to air. *Bubbled in oxygen to source container of filtered seawater before pipetting*
   - **feeding:** weekly feeding on fridays. Added reef roids to a 50mL falcon tube of filtered sw and inverted tube to mix food. 1mL of was pipetted into each well. Plates were placed back in the incubator for 1 hour. To replace the water after feeding, the settlement substrate (**one ate a time**) was temporarily placed in a different container with filtered seawater. All ~10mL of water was removed from the well and ~10mL of filtered seawater was added to the well. The settlement substrate was then placed back into the well.
 - remarks on settlement checks, more in subsection 4
-> checking and characterizing each potential settlement event under the microscope took 2-3 hours (for 6 well plates). Will want to schedule strategicially (1-2x/week)
-> compound scope much better for settlement checks than dissecting scope
-> counting # of potential settlement "events" by eye looking at the settlement substrate much more feasible as 3-4x/week task
+  - checking and characterizing each potential settlement event under the microscope took 2-3 hours (for 6 well plates). Will want to schedule strategicially (1-2x/week)
+  - compound scope much better for settlement checks than dissecting scope
+  - counting # of potential settlement "events" by eye looking at the settlement substrate much more feasible as 3-4x/week task
 
 ## 4. Remarks on settlement tracking
 - location of data [in private repo, abbreviations described in readME](https://github.com/thesyntheticcoral/PolypBailoutExpt/tree/main/settlement)
