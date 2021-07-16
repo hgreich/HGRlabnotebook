@@ -11,7 +11,7 @@ date last revised 20210716 hgr post creation
 
 # the purpose of this post is to recap the purpose of/main results the polyp bailout trials from june & july 2021
 
-| date trial started | main objective | main result | unexpected obstacles |
+| date | main objective | main result | unexpected obstacles |
 | --- | --- | --- | --- |
 | 6/14 | run bailout trial in incubator | strong positive relationship between # of corallites and MP released, experiment worked similarly to those run earlier in the year in the water tables | pump increased container water temp by 5C (replaced with oxygen bubbler), jebao pump misprogrammed (AT wrote a detailed lab notebook post on the protocol) |  
 | 6/21, 6/28 | run bailout trial with slightly larger fragments, track settlement success | Many of the MPs "attached" to the waterproof paper  wound up being piles of disintegrated tissue | |
